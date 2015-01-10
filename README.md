@@ -1,8 +1,10 @@
 # Rukido
 
-Welcome to Rukido, where you can drill Ruby methods over and over until they become second nature.
+Welcome to Rukido, where you can drill Ruby methods over and over until they become second nature. Clone it and run the following from the command line while you're in the `rukido` directory:
 
+```
 rspec spec --format documentation --fail-fast --color
+```
 
 <!--
 ## Installation
