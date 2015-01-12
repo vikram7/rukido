@@ -45,3 +45,11 @@ end
 def a10
   #YOUR CODE GOES HERE
 end
+
+def a11
+  #YOUR CODE GOES HERE
+end
+
+def a12
+  #YOUR CODE GOES HERE
+end
