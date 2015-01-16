@@ -7,6 +7,22 @@ rspec spec --format documentation --fail-fast --color
 ```
 
 <!--
+methods to cover
+.each
+.map
+.select
+.find
+.find first encounter
+.any? vs other thing
+.inject
+.reduce
+.pop
+.push
+.shift
+.unshift
+-->
+
+<!--
 ## Installation
 
 Add this line to your application's Gemfile:
